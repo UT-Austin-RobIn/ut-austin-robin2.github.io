@@ -6,7 +6,7 @@ subtitle: University of Texas at Austin. Computer Science Department
 
 profile:
   align: right
-  image: robin.jpeg
+  image: robin_sd.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>3.404</p>
