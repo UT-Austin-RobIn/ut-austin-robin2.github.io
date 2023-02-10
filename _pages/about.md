@@ -9,7 +9,7 @@ profile:
   image: robin_sd.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>3.404</p>
+    <p>(RobIn by Stable Diffusion)</p>
     <p>2317 Speedway</p>
     <p>Austin, Texas 78712</p>
 
@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-RobIN Lab is directed by [Roberto Martín-Martín](https://robertomartinmartin.com/), and it is part of the University of Texas at Austin, Department of Computer Science, UTAI Lab and Texas Robotics.
+RobIN Lab is directed by [Roberto Martín-Martín](https://robertomartinmartin.com/), and is part of the University of Texas at Austin, Department of Computer Science, UTAI Lab and Texas Robotics.
+
+The research in RobIN explores at the intersection of robotics, computer vision and machine learning, with an emphasis on creating robotic solutions that can achieve interaction-rich tasks in the real world. Intelligence
 
 [//]: # Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
