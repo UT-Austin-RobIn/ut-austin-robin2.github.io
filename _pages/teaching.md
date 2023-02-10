@@ -7,10 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-[CS391R: Robot Learning, UT](https://www.cs.utexas.edu/~robertom/cs391r_fall2022/)
+[2022 Fall - CS391R: Robot Learning, UT](https://www.cs.utexas.edu/~robertom/cs391r_fall2022/)
 
-[CS336: Robot Perception and Decision-Making, Stanford](http://cs336.stanford.edu/)
+[2020 Spring - CS336: Robot Perception and Decision-Making, Stanford](http://cs336.stanford.edu/)
 
-#For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+[//] <> For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-#Organize your courses by years, topics, or universities, however you like!
+[//] <> Organize your courses by years, topics, or universities, however you like!
