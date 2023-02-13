@@ -34,7 +34,7 @@ horizontal: false
     </tr>
     <tr>
     <td><div style="text-align:center"><a href="https://github.com/rayruchira"><img src="../assets/img/ruchira.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ruchira Ray" border="5"/><br />Ruchira Ray</a> <br/>MS student<br><br></div></td>
-    <td><div style="text-align:center"><a href=""><img src="../assets/img/robin_logo_vert2.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="XXX" border="5"/><br />XXX</a> <br/>XXX<br><br></div></td>
+    <td><div style="text-align:center"><a href="https://www.mihirsuvarna.com/"><img src="../assets/img/DSC1400.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Mihir Suvarna" border="5"/><br />Mihir Suvarna</a> <br/>MS Student<br><br></div></td>
     <td><div style="text-align:center"><a href=""><img src="../assets/img/robin_logo_vert2.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="XXX" border="5"/><br />XXX</a> <br/>XXX<br><br></div></td>
     <td><div style="text-align:center"><a href=""><img src="../assets/img/robin_logo_vert2.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="XXX" border="5"/><br />XXX</a> <br/>XXX<br><br></div></td>
     </tr>
