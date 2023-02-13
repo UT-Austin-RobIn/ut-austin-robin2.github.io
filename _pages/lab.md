@@ -25,7 +25,7 @@ horizontal: false
   <tbody>
   <tr>
     <td><div style="text-align:center"><a href="https://jiahenghu.github.io/"><img src="../assets/img/jeff_squared.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Jiaheng Hu" border="5"/><br /> Jiaheng Hu</a> <br/>PhD Student<br/><font size="-1">Coadvised with Peter Stone</font></div></td>
-    <td><div style="text-align:center"><a href="https://shahrutav.github.io/"><img src="../assets/img/rutav.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Rutav Shah" border="5"/><br />Rutav Shah</a> <br/>PhD Student<br><font size="-1">Coadvised with Yuke Zhu</font></div></td>
+    <td><div style="text-align:center"><a href="https://shahrutav.github.io/"><img src="../assets/img/rutav_pp.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Rutav Shah" border="5"/><br />Rutav Shah</a> <br/>PhD Student<br><font size="-1">Coadvised with Yuke Zhu</font></div></td>
     <td><div style="text-align:center"><a href=""><img src="../assets/img/robin_logo_vert2.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Shuozhe Li" border="5"/><br /> Shuozhe Li</a> <br/>PhD Student<br><br></div></td>
     <td><div style="text-align:center"><a href="https://hxixixh.github.io/"><img src="../assets/img/xixi.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Xixi Hu" border="5"/><br />Xixi Hu</a> <br/>PhD Student<br><br> </div></td>
     </tr>
