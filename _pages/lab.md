@@ -42,7 +42,7 @@ horizontal: false
     </tr>
     <tr>
     <td><div style="text-align:center"><a href="https://www.linkedin.com/in/steven200796/"><img src="../assets/img/steven_shi.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Di Yang (Steven) Shi" border="5"/><br />Di Yang (Steven) Shi</a> <br/>PhD Student<br><br></div></td>
-    <td><div style="text-align:center"><a href="https://hxixixh.github.io/"><img src="../assets/img/xixi.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Xixi Hu" border="5"/><br />Xixi Hu</a> <br/>PhD Student<br><br> </div></td>
+    <td><div style="text-align:center"><a href="https://hxixixh.github.io/"><img src="../assets/img/hxixi_22_256x256.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Xixi Hu" border="5"/><br />Xixi Hu</a> <br/>PhD Student<br><br></div></td>
     <td><div style="text-align:center"><a href="https://github.com/rayruchira"><img src="../assets/img/ruchira.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ruchira Ray" border="5"/><br />Ruchira Ray</a> <br/>MS student<br><br></div></td>
     <td><div style="text-align:center"><a href="https://www.mihirsuvarna.com/"><img src="../assets/img/DSC1400.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Mihir Suvarna" border="5"/><br />Mihir Suvarna</a> <br/>MS Student<br><br></div></td>
     </tr>
