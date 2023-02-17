@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: robin_logo_vert2.jpg
+  image: robin_logo_vert3.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>2317 Speedway</p>
