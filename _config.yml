@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: RobIN
 middle_name:
 last_name: Robot Interactive Intelligence Lab
-email: robin.robotics.lab@gmail.com
+email: robin.robotics.laboratory@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Group website.
 footer_text:
