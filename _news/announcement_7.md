@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2023-1-25 15:59:00-0400
+inline: true
+---
+
+Roberto presents RobIN at GradFest'23.  [This presentation](assets/pdf/RobIN_GradFest.pdf) summarizes some of the core ideas of our lab and broad future research directions.
