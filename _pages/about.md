@@ -23,7 +23,7 @@ The research in RobIn explores at the intersection of <u>robotics</u>, <u>comput
 
 Keywords in our research include: learning (reinforcement learning, imitation learning, representation learning), planning (motion planning, task planning, TAMP), control (optimal control, force control), perception (active, interactive, multimodal perception), 2D and 3D reasoning, and Bayesian state estimation, sim2real. Application domains we find exciting involve: mobile manipulation, stationary manipulation, contact-rich manipulation, social and visual navigation.
 
-If you are always looking for outstanding new members and collaborators for RobIn. Please, fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSffvYGQ74fz2c-GvBfTGbuXGxupA0Y8Iy4s88UfVu7Gfb1c1A/viewform) and state clearly if you are an UG/Msc/PhD from UT, or a prospective visitor. 
+If you are always looking for outstanding new members and collaborators for RobIn. Please, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSffvYGQ74fz2c-GvBfTGbuXGxupA0Y8Iy4s88UfVu7Gfb1c1A/viewform) and state clearly if you are an UG/MSc/PhD from UT, or a prospective visitor. 
 
 [//]: # Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
