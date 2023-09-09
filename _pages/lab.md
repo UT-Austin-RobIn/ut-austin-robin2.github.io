@@ -27,9 +27,10 @@ horizontal: false
     <td><div style="text-align:center"><a href="https://robertomartinmartin.com"><img src="../assets/img/roberto_martinmartin.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Roberto Martín-Martín" border="5"/><br />Roberto Martín-Martín</a> <br/>Director and PI<br/><br><br></div></td>
   </tr>
   <tr>
+    <td><div style="text-align:center"><a href="https://babbatem.github.io/"><img src="../assets/img/ben.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ben Abbatematteo" border="5"/><br /> Ben Abbatematteo</a> <br/>Post-Doctoral<br><br></div></td>
     <td><div style="text-align:center"><a href="https://jiahenghu.github.io/"><img src="../assets/img/jeff_squared.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Jiaheng Hu" border="5"/><br /> Jiaheng Hu</a> <br/>Ph.D. Student<br/><font size="-1">Coadvised with Peter Stone</font></div></td>
     <td><div style="text-align:center"><a href="https://shahrutav.github.io/"><img src="../assets/img/rutav_pp.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Rutav Shah" border="5"/><br />Rutav Shah</a> <br/>Ph.D. Student<br><font size="-1">Coadvised with Yuke Zhu</font></div></td>
-    <td><div style="text-align:center"><a href="https://www.cs.utexas.edu/~albertyu/"><img src="../assets/img/albertyu_sq.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Albert Yu" border="5"/><br />Albert Yu</a> <br/>Ph.D. Student<br><br></div></td>
+    <td><div style="text-align:center"><a href="https://www.cs.utexas.edu/~albertyu/"><img src="../assets/img/albertyu_sq.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Albert Yu" border="5"/><br />Albert Yu</a> <br/>Ph.D. Student<br><font size="-1">Coadvised with Raymond Mooney</font></div></td>
     </tr>
     <tr>
     <td><div style="text-align:center"><a href="https://github.com/rayruchira"><img src="../assets/img/ruchira.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ruchira Ray" border="5"/><br />Ruchira Ray</a> <br/>Master's student<br><br></div></td>
