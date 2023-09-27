@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-5-31 15:59:00-0400
+date: 2023-7-10 15:59:00-0400
 inline: true
 ---
 
-Andrey Kurenkov presents [Scene Graph Memory](https://www.scenegraphmemory.com) at AAMAS23 in London, our work for object search in unknown, dynamically changing environments represented as scene graphs. An extension of this work will be also presented at ICML23.
+Roberto presents RobIn's work at the RSS'23 workshop [Robotics and AI: The Future of Industrial Assembly Tasks](https://sites.google.com/nvidia.com/industrial-assembly). His presentation touches on our research on "Learning Contact-rich Interaction Control".

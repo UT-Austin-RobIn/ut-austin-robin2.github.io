@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-5-31 15:59:00-0400
+date: 2023-9-6 15:59:00-0400
 inline: true
 ---
 
-Andrey Kurenkov presents [Scene Graph Memory](https://www.scenegraphmemory.com) at AAMAS23 in London, our work for object search in unknown, dynamically changing environments represented as scene graphs. An extension of this work will be also presented at ICML23.
+Invited Lecture by Roberto in the new UT Austin MOOC course [Essentials of AI for Life and Society](https://hr.utexas.edu/events/27). Roberto introduced the topic "Probabilistic Modeling" to a live online audience of thousands of participants.
