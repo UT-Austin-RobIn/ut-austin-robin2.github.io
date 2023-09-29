@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lab
+title: Lab
 permalink: /lab/
 description: Members and collaborators
 nav: true
