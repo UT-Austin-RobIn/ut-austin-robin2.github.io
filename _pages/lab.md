@@ -34,15 +34,15 @@ horizontal: false
     <td><div style="text-align:center"><a href="https://shahrutav.github.io/"><img src="../assets/img/rutav_pp.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Rutav Shah" border="5"/><br />Rutav Shah</a> <br/>Ph.D. Student<br><font size="-1">Coadvised with Yuke Zhu</font></div></td>
     </tr>
     <tr>
-    <td><div style="text-align:center"><a href="https://www.cs.utexas.edu/~albertyu/"><img src="../assets/img/albertyu_sq.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Albert Yu" border="5"/><br />Albert Yu</a> <br/>Ph.D. Student<br><font size="-1">Coadvised with Raymond Mooney</font></div></td>
-    <td><div style="text-align:center"><a href="https://github.com/rayruchira"><img src="../assets/img/ruchira.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ruchira Ray" border="5"/><br />Ruchira Ray</a> <br/>Master's student<br><br></div></td>
-    <!-- <td><div style="text-align:center"><a href="https://www.mihirsuvarna.com/"><img src="../assets/img/DSC1400.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Mihir Suvarna" border="5"/><br />Mihir Suvarna</a> <br/>MS Student<br><br></div></td> -->
-  </tr>
-  <tr>
-    <td><div style="text-align:center"><a href="https://blog.pal-robotics.com/tiago-omni-bi-manual-omnidirectional-robot/"><img src="../assets/img/mario.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Mario" border="5"/><br />Mario</a> <br/>Mobile Manipulator<br><br></div></td>
-    <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/luigi.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Luigi" border="5"/><br />Luigi</a> <br/>Robot Arm<br><br></div></td>
-    <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/bowser.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Bowser" border="5"/><br />Bowser</a> <br/>Robot Arm<br><br></div></td>
-  </tr>
+      <td><div style="text-align:center"><a href="https://scholar.google.com/citations?user=ZzURcb4AAAAJ&hl=en"><img src="../assets/img/albertyu_sq.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Albert Yu" border="5"/><br />Albert Yu</a> <br/>Ph.D. Student<br><font size="-1">Coadvised with Raymond Mooney</font></div></td>
+      <td><div style="text-align:center"><a href="https://github.com/rayruchira"><img src="../assets/img/ruchira.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ruchira Ray" border="5"/><br />Ruchira Ray</a> <br/>Master's student</div></td>
+      <td><div style="text-align:center"><a href="https://www.linkedin.com/in/imsamik/"><img src="../assets/img/samik.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Samik Singh" border="5"/><br />Samik Singh</a> <br/>Undergraduate student<br><br></div></td>
+    </tr>
+    <tr>
+      <td><div style="text-align:center"><a href="https://blog.pal-robotics.com/tiago-omni-bi-manual-omnidirectional-robot/"><img src="../assets/img/mario.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Mario" border="5"/><br />Mario</a> <br/>Mobile Manipulator<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/luigi.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Luigi" border="5"/><br />Luigi</a> <br/>Robot Arm<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://www.franka.de/research/"><img src="../assets/img/bowser.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Bowser" border="5"/><br />Bowser</a> <br/>Robot Arm<br><br></div></td>
+    </tr>
   </tbody>
 </table>
 
