@@ -38,7 +38,7 @@ horizontal: false
       <td><div style="text-align:center"><a href="https://github.com/rayruchira"><img src="../assets/img/ruchira.jpeg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Ruchira Ray" border="5"/><br />Ruchira Ray</a> <br/>Master's student</div></td>
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/imsamik/"><img src="../assets/img/samik.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Samik Singh" border="5"/><br />Samik Singh</a> <br/>Undergraduate student<br><br></div></td>
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/addiefoote/"><img src="../assets/img/addie.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Addie Foote" border="5"/><br />Addie Foote</a> <br/>Undergraduate student<br><br></div></td>
-      <td><div style="text-align:center"><a href="https://www.linkedin.com/in/luca-macesanu/"><img src="../assets/img/luca.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Luca Macesanu " border="5"/><br />Luca Macesanu </a> <br/>Undergraduate student<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://www.linkedin.com/in/luca-macesanu/"><img src="../assets/img/luca.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Luca Macesanu " border="5"/><br />Luca Macesanu </a> <br/>Undergraduate student<br><br></div></td>
     </tr>
       <td><div style="text-align:center"><a href=""><img src="../assets/img/caleb.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Samik Singh" border="5"/><br />Caleb Chalmers</a> <br/>Undergraduate student<br><br></div></td>
     <tr>
