@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+[2024 Spring - CS395T: Robot Manipulation and Learning, UT](https://www.cs.utexas.edu/~robertom/cs395t_spring2024/index.html)
+
 [2023 Fall - RBT350: Gateway to Robotics, UT](https://www.cs.utexas.edu/~robertom/rbt350_fall2023/)
 
 [2022 Fall - CS391R: Robot Learning, UT](https://www.cs.utexas.edu/~robertom/cs391r_fall2022/)
