@@ -47,7 +47,7 @@ horizontal: false
       </td>
     </tr>
     <tr>
-      <td><div style="text-align:center"><a href=""><img src="../assets/img/caleb.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Samik Singh" border="5"/><br />Caleb Chalmers</a> <br/>Undergraduate student<br><br></div></td>
+      <td><div style="text-align:center"><a href="https://reneu.robotics.utexas.edu/members/gu-cheol-jeong"><img src="../assets/img/gu-cheol.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Gu-Cheol Jeong" border="5"/><br />Gu-Cheol Jeong</a> <br/>Ph.D. Student<br><br></div></td>
     </tr>
     <tr>
       <td style="font-size:1.5em">
