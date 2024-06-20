@@ -70,10 +70,12 @@ horizontal: false
     </tr>
     <tr>
       <td><a href="">Caleb Chalmers</a></td>
-      <td>Undergraduate student '25</td>
+      <td>Math UG '25</td>
       <td></td>
     </tr>
   </tbody>
 </table>
 
+</br>
+</br>
 To join the lab, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSffvYGQ74fz2c-GvBfTGbuXGxupA0Y8Iy4s88UfVu7Gfb1c1A/viewform) and state clearly if you are an UG/MSc/PhD from UT, or a prospective visitor. 
