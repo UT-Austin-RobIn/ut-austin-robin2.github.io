@@ -64,8 +64,14 @@ horizontal: false
       </td>
     </tr>
     <tr>
-          <td><<a href="">Caleb Chalmers</a></td>
-          <td>Undergraduate student</td>
+      <td> Student </td>
+      <td> Class </td>
+      <td> After Graduation </td>
+    </tr>
+    <tr>
+      <td><a href="">Caleb Chalmers</a></td>
+      <td>Undergraduate student '25</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
