@@ -64,6 +64,7 @@ horizontal: false
           Alumni
       </td>
     </tr>
+    <br>
     <tr>
       <td> Student </td>
       <td> Class </td>
