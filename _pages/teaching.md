@@ -7,9 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+[2024 Summer - Robot Learning (High School Research Academy), UT](https://www.cs.utexas.edu/~robertom/hsra_summer2024/)
+
 [2024 Spring - CS395T: Robot Manipulation and Learning, UT](https://www.cs.utexas.edu/~robertom/cs395t_spring2024/index.html)
 
-[2024 Spring - CS309: Robot Learning (FRI I), UT](https://www.cs.utexas.edu/~abba/fri-robot-learning/)
+[2024 Spring - CS309: Robot Learning (FRI I), UT](https://www.cs.utexas.edu/~robertom/fri_2024/)
 
 [2023 Fall - RBT350: Gateway to Robotics, UT](https://www.cs.utexas.edu/~robertom/rbt350_fall2023/)
 
