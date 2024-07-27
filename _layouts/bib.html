@@ -134,6 +134,11 @@
           {{ entry.note | strip }}
         </div>
 
+        <!-- Added by Arpit: Awards -->
+        {%- if entry.award %}
+          <div class="title">{{entry.award}}</div>
+        {%- endif %}
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
