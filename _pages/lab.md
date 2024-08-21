@@ -38,8 +38,10 @@ horizontal: false
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/addiefoote/"><img src="../assets/img/addie.jpg" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Addie Foote" border="5"/><br />Addie Foote</a> <br/>Undergraduate student<br><br></div></td>
       <td><div style="text-align:center"><a href="https://www.linkedin.com/in/luca-macesanu/"><img src="../assets/img/luca.png" style="width:150px;height:150px;margin: 10px 15px 2px 15px;" alt="Luca Macesanu " border="5"/><br />Luca Macesanu </a> <br/>Undergraduate student<br><br></div></td>
     </tr>
-    <br>
-    <br>
+    <!-- <br> -->
+    <tr style="height:2em">
+      <td></td>
+    </tr>
     <tr>
       <td style="font-size:1.5em">
           Collaborators
@@ -63,7 +65,7 @@ horizontal: false
           Alumni
       </td>
     </tr>
-    <br>
+    <!-- <br> -->
     <tr>
       <td> Student </td>
       <td> Class </td>
