@@ -19,8 +19,6 @@ horizontal: false
     </style>
 </head>
 
-
-
 <table>
   <tbody>
   <tr>
