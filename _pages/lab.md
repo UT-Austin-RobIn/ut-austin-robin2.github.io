@@ -82,6 +82,9 @@ horizontal: false
       <td></td>
     </tr>
     <tr>
+      <td><a href=""><a href="https://ruchira.framer.ai/">Ruchira Ray</a></td>
+      <td>CS MS '25</td>
+      <td>Applied AI Research Engineer at <a href="https://www.rstreamrecycling.com/">rStream</a></td>
     </tr>
     <tr>
     </tr>
